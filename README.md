@@ -1,19 +1,16 @@
-### Hi there 👋
+### Hello, i'm JEONGWOO LEE 👋
 
-<!--
-**ToTheJ/ToTheJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### AI Researcher / Data Engineering
+Developers who create beneficial social values   
+A developer who thinks, researches, creates, and connects to practical realization by web
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToTheJ)](http://github.com/ToTheJ/github-readme-stats)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+💪🏼 Tools
+
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToTheJ&show_icons=true&theme=radical)
